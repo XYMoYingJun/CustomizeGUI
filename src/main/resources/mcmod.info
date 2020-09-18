@@ -1,14 +1,14 @@
 [
 {
-  "modid": "theendlessseamod",
-  "name": "The Endless Sea Mod",
-  "description": "为整合包添加了一些特殊材料,本Mod仅适用于该(The Endless Sea II)整合包",
+  "modid": "customizegui",
+  "name": "Customize GUI",
+  "description": "自定义GUI",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "https://github.com/The-Endless-Sea-II/TheendlessseaMod",
+  "url": "",
   "updateUrl": "",
-  "authorList": ["XYM_Y_L&Du_Yi_Wu_Er"],
-  "logoFile": "logo.png",
+  "authorList": ["XYM_Y_L"],
+  "logoFile": "",
   "screenshots": [],
   "dependencies": []
 }
